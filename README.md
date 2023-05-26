@@ -2,11 +2,18 @@
 
 primera practica remota del curso de git
 
-#primer commit
+# primer commit
+
 genial
 
-#segundo commit
+# segundo commit
+
 segundo chido
 
-#tercer commit
+# tercer commit
+
 tercero todo bien
+
+# cuarto commit
+
+cuarto chido modifique los titulos
